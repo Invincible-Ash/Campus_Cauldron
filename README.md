@@ -45,7 +45,13 @@ A collage composed of various pictures of campus life.
 ![Ask_page](/Snapshots/Askshot.png "Ask your questions")
  
  
- * Different clubs and councils operating in the college
+ * ## `CLUBS & COUNCILS`-
+------------
+Different clubs and councils operating in the college.
+
+![Ask_page](/Snapshots/Askshot.png "Ask your questions")
+
+
  * ## `EVENTS & FESTS`-
 ------------
 A carousal of numerous events and fests alongwith details.
@@ -53,14 +59,14 @@ A carousal of numerous events and fests alongwith details.
 ![Ask_page](/Snapshots/Askshot.png "Ask your questions")
  
  
- * `FAQ`-
+ * ## `FAQ`-
  ------------
  A collapse constituting of the frequently asked questions.
  
  ![Ask_page](/Snapshots/Askshot.png "Ask your questions")
  
  
- * `COLLEGE MAP`-
+ * ## `COLLEGE MAP`-
 ------------
 An iframe of map showing nooks and corners of campus.
 
