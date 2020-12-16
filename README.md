@@ -116,5 +116,13 @@ Here i want to give you some information about the technologies, frameworks and 
 # Data Base
 ***
 - [MySQL](http://www.mysql.com/)
+***
 
+# `OUR TEAM`
 
+|TEAMNAME&LEADER|      Members     ||               Branch                    |       Year     |
+| ------------- |   -------------  ||            -------------                |  ------------- |
+| Content Cell  | Ashutosh Dwivedi || Electrical Engineering                  |  Second Year   |
+| Content Cell  | Mahima Rai       || Electronics & Communication Engineering |  Second Year   |
+| Content Cell  | Kshitij Sharma   || Electronics & Communication Engineering |  Second Year   |
+| Content Cell  | Rati Gupta       || Information Technology                  |  Second Year   |
