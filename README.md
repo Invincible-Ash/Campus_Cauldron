@@ -28,47 +28,47 @@ Interested users can ask their questions here after signing up.
 ------------
 List of suggested questions to be answered by users.
  
-![Ask_page](/Snapshots/Askshot.png "Ask your questions")
+![Answer_page](/Snapshots/Ques_shot.png "Post your answers")
   
   
  * ## `NOTICES`-
 ------------
 A panel for highlighting all the latest updates and announcemnts.
  
-![Ask_page](/Snapshots/Askshot.png "Ask your questions")
+![Notice panel](/Snapshots/Notice_shot.png "Recent notices for users")
  
  
  * ## `Gallery`-
 ------------
 A collage composed of various pictures of campus life.
  
-![Ask_page](/Snapshots/Askshot.png "Ask your questions")
+![Caught within the frames](/Snapshots/Gallery_shot.png "A frame of beautiful shots")
  
  
  * ## `CLUBS & COUNCILS`-
 ------------
 Different clubs and councils operating in the college.
 
-![Ask_page](/Snapshots/Askshot.png "Ask your questions")
+![Clubs panel](/Snapshots/Clubs_shot.png "Extracurriculars within the college")
 
 
  * ## `EVENTS & FESTS`-
 ------------
 A carousal of numerous events and fests alongwith details.
 
-![Ask_page](/Snapshots/Askshot.png "Ask your questions")
+![Events panel](/Snapshots/Fest_shot.png "College fests and activities")
  
  
  * ## `FAQ`-
- ------------
- A collapse constituting of the frequently asked questions.
+------------
+A collapse constituting of the frequently asked questions.
  
- ![Ask_page](/Snapshots/Askshot.png "Ask your questions")
+ ![FAQ's panel](/Snapshots/Faq_shot.png "An answered list of commonly asked questions")
  
  
  * ## `COLLEGE MAP`-
 ------------
-An iframe of map showing nooks and corners of campus.
+An iframe of map showing nooks and corners for the detailed view of the campus.
 
-![Ask_page](/Snapshots/Askshot.png "Ask your questions")
+![MAP panel](/Snapshots/Map_shot.png "A MAP for our visitors")
  
