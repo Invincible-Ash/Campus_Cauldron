@@ -120,8 +120,8 @@ Here i want to give you some information about the technologies, frameworks and 
 
 # `OUR TEAM`
 
-|TEAMNAME&LEADER|      Members     ||               Branch                    |       Year     |
-| ------------- |   -------------  ||            -------------                |  ------------- |
+|TEAMNAME&LEADER|Members     ||Branch                    |Year     |
+|------------- |-------------  ||-------------                |------------- |
 | Content Cell  | Ashutosh Dwivedi || Electrical Engineering                  |  Second Year   |
 | Content Cell  | Mahima Rai       || Electronics & Communication Engineering |  Second Year   |
 | Content Cell  | Kshitij Sharma   || Electronics & Communication Engineering |  Second Year   |
