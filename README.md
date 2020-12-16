@@ -126,3 +126,8 @@ Here i want to give you some information about the technologies, frameworks and 
 | Content Cell  | Mahima Rai       || Electronics & Communication Engineering |  Second Year   |
 | Content Cell  | Kshitij Sharma   || Electronics & Communication Engineering |  Second Year   |
 | Content Cell  | Rati Gupta       || Information Technology                  |  Second Year   |
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
